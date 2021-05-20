@@ -20168,4 +20168,3 @@ distance,cab_type,time_stamp,destination,source,price,surge_multiplier,id,produc
 2.14,Uber,1544722214255,South Station,West End,9,1,aee930bd-e127-49bb-aed8-16a129b1c404,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
 2.14,Uber,1543661283292,South Station,West End,9,1,b9bef9d5-1d54-425d-b8d3-aa90f856be42,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
 2.14,Uber,1544750107786,South Station,West End,19.5,1,e8020fca-77c8-4408-94ab-e04ac4f24794,6c84fd89-3f11-4782-9b50-97c468b19529,Black
-2.86,Lyft,1543893483203,Wes
